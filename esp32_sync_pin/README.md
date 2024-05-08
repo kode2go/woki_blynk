@@ -18,6 +18,8 @@
 
 ![image](https://github.com/kode2go/woki_blynk/assets/29664888/01a881cd-468a-4b28-8ace-59a5e29ab4db)
 
+![image](https://github.com/kode2go/woki_blynk/assets/29664888/530f4fbf-e267-4359-b13c-579c81056537)
+
 # Front Facing
 
 ![image](https://github.com/kode2go/woki_blynk/assets/29664888/83cda3c7-7bdf-4267-bd24-0ed5b9df69f0)
